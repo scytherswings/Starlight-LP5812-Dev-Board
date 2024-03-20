@@ -1,6 +1,9 @@
 # For PCBs designed using KiCad: https://www.kicad.org/
 # Format documentation: https://kicad.org/help/file-formats/
 
+# Log files
+*.log
+
 # Temporary files
 *.000
 *.bak
@@ -16,6 +19,7 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
+*.lck
 
 # Netlist files (exported from Eeschema)
 *.net
