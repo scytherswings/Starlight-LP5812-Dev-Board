@@ -12,577 +12,6 @@
 		(comment 2 "Copyright 2024 Andrew Newell")
 	)
 	(lib_symbols
-		(symbol "ASMB-TTF0-0A20B:ASMB-TTF0-0A20B"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "LED"
-				(at -0.508 4.572 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "ASMB-TTF0-0A20B"
-				(at -0.508 2.032 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "ASMBTTF00A20B"
-				(at 44.45 -94.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/ASMB-TTF0-0A20B.pdf"
-				(at 44.45 -194.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "BROADCOM LIMITED - ASMB-TTF0-0A20B - LED, RGB, 710/1840/410MCD, PLCC-6"
-				(at 13.462 6.604 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "2"
-				(at 44.45 -394.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "630-ASMB-TTF0-0A20B"
-				(at 44.45 -494.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ASMB-TTF0-0A20B?qs=j%252B1pi9TdxUbzVLPA%2F5LflQ%3D%3D"
-				(at 44.45 -594.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "Avago Technologies"
-				(at 44.45 -694.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "ASMB-TTF0-0A20B"
-				(at 44.45 -794.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "ASMB-TTF0-0A20B_0_0"
-				(text "B"
-					(at 0.635 -15.24 0)
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(text "G"
-					(at 0.635 -10.16 0)
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(text "R"
-					(at 0.635 -5.08 0)
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(symbol "ASMB-TTF0-0A20B_0_1"
-				(polyline
-					(pts
-						(xy 1.27 -13.97) (xy 0 -13.97)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -13.97) (xy 3.81 -13.97)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -12.7) (xy 1.27 -15.24)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -8.89) (xy 0 -8.89)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -7.62) (xy 1.27 -10.16)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -3.81) (xy 0 -3.81)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -3.81) (xy 3.81 -3.81)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -2.54) (xy 1.27 -5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 -13.97) (xy 5.08 -13.97)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 -8.89) (xy 1.27 -8.89)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 -8.89) (xy 5.08 -8.89)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 -3.81) (xy 5.08 -3.81)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -7.62) (xy 1.27 -10.16) (xy 1.27 -10.16)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -2.54) (xy 1.27 -5.08) (xy 1.27 -5.08)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 -12.7) (xy 3.81 -15.24) (xy 1.27 -13.97) (xy 3.81 -12.7)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 -7.62) (xy 3.81 -10.16) (xy 1.27 -8.89) (xy 3.81 -7.62)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 -2.54) (xy 3.81 -5.08) (xy 1.27 -3.81) (xy 3.81 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.524 -12.7) (xy 3.048 -11.176) (xy 2.286 -11.176) (xy 3.048 -11.176) (xy 3.048 -11.938)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.524 -7.62) (xy 3.048 -6.096) (xy 2.286 -6.096) (xy 3.048 -6.096) (xy 3.048 -6.858)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.524 -2.54) (xy 3.048 -1.016) (xy 2.286 -1.016) (xy 3.048 -1.016) (xy 3.048 -1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -12.7) (xy 4.064 -11.176) (xy 3.302 -11.176) (xy 4.064 -11.176) (xy 4.064 -11.938)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -7.62) (xy 4.064 -6.096) (xy 3.302 -6.096) (xy 4.064 -6.096) (xy 4.064 -6.858)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.54) (xy 4.064 -1.016) (xy 3.302 -1.016) (xy 4.064 -1.016) (xy 4.064 -1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 3.81 -10.16)
-					(end 3.81 -7.62)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 3.81 -7.62)
-					(end 3.81 -7.62)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 3.81 -5.08)
-					(end 3.81 -2.54)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 3.81 -2.54)
-					(end 3.81 -2.54)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 5.334 -0.508)
-					(end -0.254 -16.51)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-			)
-			(symbol "ASMB-TTF0-0A20B_1_1"
-				(pin passive line
-					(at 7.62 -3.81 180)
-					(length 2.54)
-					(name "RA"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -3.81 0)
-					(length 2.54)
-					(name "RK"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 -8.89 180)
-					(length 2.54)
-					(name "GA"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -8.89 0)
-					(length 2.54)
-					(name "GK"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 -13.97 180)
-					(length 2.54)
-					(name "BA"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -13.97 0)
-					(length 2.54)
-					(name "BK"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Connector:TestPoint"
 			(pin_numbers hide)
 			(pin_names
@@ -1351,6 +780,506 @@
 				)
 			)
 		)
+		(symbol "Device:LED_RABG"
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 9.398 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "LED_RABG"
+				(at 0 -8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "RGB LED, red/anode/blue/green"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "LED RGB diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "LED* LED_SMD:* LED_THT:*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "LED_RABG_0_0"
+				(text "B"
+					(at -1.905 -6.35 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(text "G"
+					(at -1.905 -1.27 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(text "R"
+					(at -1.905 3.81 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(symbol "LED_RABG_0_1"
+				(polyline
+					(pts
+						(xy -1.27 -5.08) (xy -2.54 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -5.08) (xy 1.27 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -3.81) (xy -1.27 -6.35)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy -1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 5.08) (xy -2.54 5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 5.08) (xy 1.27 5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 6.35) (xy -1.27 3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy -1.27 -1.27) (xy -1.27 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 6.35) (xy -1.27 3.81) (xy -1.27 3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -5.08) (xy 2.032 -5.08) (xy 2.032 5.08) (xy 1.27 5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -3.81) (xy 1.27 -6.35) (xy -1.27 -5.08) (xy 1.27 -3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 6.35) (xy 1.27 3.81) (xy -1.27 5.08) (xy 1.27 6.35)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 -3.81) (xy 0.508 -2.286) (xy -0.254 -2.286) (xy 0.508 -2.286) (xy 0.508 -3.048)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 1.27) (xy 0.508 2.794) (xy -0.254 2.794) (xy 0.508 2.794) (xy 0.508 2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 6.35) (xy 0.508 7.874) (xy -0.254 7.874) (xy 0.508 7.874) (xy 0.508 7.112)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -3.81) (xy 1.524 -2.286) (xy 0.762 -2.286) (xy 1.524 -2.286) (xy 1.524 -3.048)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.27) (xy 1.524 2.794) (xy 0.762 2.794) (xy 1.524 2.794) (xy 1.524 2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 6.35) (xy 1.524 7.874) (xy 0.762 7.874) (xy 1.524 7.874) (xy 1.524 7.112)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 1.27 -1.27)
+					(end 1.27 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 1.27 1.27)
+					(end 1.27 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 1.27 3.81)
+					(end 1.27 6.35)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 1.27 6.35)
+					(end 1.27 6.35)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 0)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 2.794 8.382)
+					(end -2.794 -7.62)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "LED_RABG_1_1"
+				(pin passive line
+					(at -5.08 5.08 0)
+					(length 2.54)
+					(name "RK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 0)
+					(length 2.54)
+					(name "BK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "GK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "LP5812:LP5812"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -1572,6 +1501,85 @@
 								(size 1.27 1.27)
 							)
 						)
+					)
+				)
+			)
+		)
+		(symbol "Mechanical:Fiducial"
+			(exclude_from_sim yes)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "FID"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Fiducial"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Fiducial Marker"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "fiducial marker"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Fiducial*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Fiducial_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type background)
 					)
 				)
 			)
@@ -1992,10 +2000,16 @@
 		)
 	)
 	(junction
-		(at 213.36 36.83)
+		(at 252.73 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "04dd57f6-17d2-415e-81f4-478130906277")
+		(uuid "0e2dca62-8dbc-4cff-bb80-1fa1ba31b765")
+	)
+	(junction
+		(at 252.73 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "12661684-9a4e-4bd8-90f6-9cdc179be92e")
 	)
 	(junction
 		(at 26.67 36.83)
@@ -2022,16 +2036,10 @@
 		(uuid "2706253b-d657-4e41-bb24-982b60451abb")
 	)
 	(junction
-		(at 254 46.99)
+		(at 252.73 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "29280c96-a41a-4289-888d-d92970ead569")
-	)
-	(junction
-		(at 254 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2c8de564-8233-47ee-97ce-476c7e3af78a")
+		(uuid "30c07291-7c73-4c82-ad2d-0f250352ff0c")
 	)
 	(junction
 		(at 156.21 40.64)
@@ -2052,16 +2060,10 @@
 		(uuid "3ebaf506-482e-4dac-86f9-635817a50f4f")
 	)
 	(junction
-		(at 213.36 101.6)
+		(at 212.09 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4833b7d4-0a6c-441e-9d4a-7ce70c45b82a")
-	)
-	(junction
-		(at 254 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4b2dd675-495b-4d52-8574-e544e3094a6a")
+		(uuid "49254471-bce1-4f0d-a6d9-f5bd28471a5f")
 	)
 	(junction
 		(at 105.41 40.64)
@@ -2076,34 +2078,22 @@
 		(uuid "4ff02b9f-7869-407a-92c4-c509d967b220")
 	)
 	(junction
-		(at 213.36 77.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "52e47122-1138-4838-bafd-500f13a378a7")
-	)
-	(junction
-		(at 213.36 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "56b62b48-1302-49aa-b3e3-be0e0fa35d91")
-	)
-	(junction
 		(at 161.29 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "57187d6b-38c2-49f7-b746-75c738bea7ef")
 	)
 	(junction
-		(at 213.36 46.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5ac0e711-3cf0-4604-b834-6b586861d8eb")
-	)
-	(junction
 		(at 26.67 66.04)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5c1b6b89-aff0-439d-9970-a7bfda6b6858")
+	)
+	(junction
+		(at 212.09 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "68a3971e-2713-45f2-92f2-33a8bad975fe")
 	)
 	(junction
 		(at 30.48 119.38)
@@ -2118,12 +2108,6 @@
 		(uuid "76fcbf7e-e23c-4da6-afab-a499c0667f0c")
 	)
 	(junction
-		(at 254 41.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7c0c4077-e1a4-4652-abd7-e6a4bd512d89")
-	)
-	(junction
 		(at 172.72 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2136,58 +2120,16 @@
 		(uuid "7da95134-3f71-42f6-a27e-89c432433d32")
 	)
 	(junction
-		(at 254 137.16)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "869743ee-527e-43d3-9ec9-cc01366fb2d2")
-	)
-	(junction
-		(at 213.36 41.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8d6065f6-ae9e-415c-a60a-ba43eda26828")
-	)
-	(junction
 		(at 26.67 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8e16673e-c945-4b2f-b29f-44b670326d30")
 	)
 	(junction
-		(at 254 67.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8f57a9b0-7519-4230-80fd-12b68dd355d3")
-	)
-	(junction
 		(at 26.67 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8f5d9c67-fc80-4db1-af20-17d2aa2684a2")
-	)
-	(junction
-		(at 254 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9e1794a6-0b0c-421a-8614-07e72c417650")
-	)
-	(junction
-		(at 254 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9ebfad45-a7a2-45fa-8927-7c5adad9109a")
-	)
-	(junction
-		(at 254 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a526c92e-afaa-489e-8a29-6c68f8e58e8b")
-	)
-	(junction
-		(at 213.36 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a52d73ce-2ce9-49fc-b8a5-6557603fbd20")
 	)
 	(junction
 		(at 26.67 86.36)
@@ -2202,22 +2144,10 @@
 		(uuid "b4b6cfb5-04bc-40b8-8e5a-a7fb2459fc9f")
 	)
 	(junction
-		(at 213.36 106.68)
+		(at 252.73 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b529ab91-cc2b-40db-9b16-489620fe07cc")
-	)
-	(junction
-		(at 254 77.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c38d5b0a-a968-4fd4-b43e-50aecd1ddba3")
-	)
-	(junction
-		(at 254 36.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d098e1f2-0ea7-4bc3-829f-14036c4fc356")
+		(uuid "d892f02e-b548-480a-a4c6-f3104a03d339")
 	)
 	(junction
 		(at 26.67 80.01)
@@ -2226,34 +2156,16 @@
 		(uuid "d9c5982e-71e8-49ff-b634-cf8d7b35c4ea")
 	)
 	(junction
-		(at 213.36 142.24)
+		(at 212.09 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "dbccaf2b-d9da-4661-a64f-608de6ee80bf")
+		(uuid "e253677d-de46-40f9-8041-47066fae2e25")
 	)
 	(junction
-		(at 213.36 137.16)
+		(at 212.09 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e118a869-d107-454f-b8a8-a5cc166e9aea")
-	)
-	(junction
-		(at 213.36 67.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e72fcdf6-a80d-47b1-a8dd-fbe2917078b6")
-	)
-	(junction
-		(at 213.36 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f87459b5-0423-4fb5-8f8b-0e41edc427f5")
-	)
-	(junction
-		(at 254 106.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "febdbffa-97e5-4b7d-8577-7e340f479786")
+		(uuid "f30f213f-e131-471c-82bc-87e0b9b604cd")
 	)
 	(wire
 		(pts
@@ -2277,27 +2189,17 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 41.91) (xy 213.36 46.99)
+			(xy 252.73 137.16) (xy 250.19 137.16)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "05611c65-8c7c-4dd8-a571-0075ed31ffa9")
+		(uuid "0398c05c-f964-4d10-913b-f1757662dc11")
 	)
 	(wire
 		(pts
-			(xy 254 132.08) (xy 255.27 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "06141bb0-6140-4925-9aee-faa09cb76068")
-	)
-	(wire
-		(pts
-			(xy 252.73 67.31) (xy 254 67.31)
+			(xy 250.19 72.39) (xy 252.73 72.39)
 		)
 		(stroke
 			(width 0)
@@ -2307,33 +2209,13 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 106.68) (xy 214.63 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "09e7572e-f4fe-4e4b-8532-7daab7a02a17")
-	)
-	(wire
-		(pts
-			(xy 212.09 101.6) (xy 213.36 101.6)
+			(xy 209.55 106.68) (xy 212.09 106.68)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "10399925-ddc2-4c9f-9315-f001f153960e")
-	)
-	(wire
-		(pts
-			(xy 213.36 111.76) (xy 214.63 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "10cafec9-79ae-49c8-93e9-7fb209cd5d83")
 	)
 	(wire
 		(pts
@@ -2347,23 +2229,13 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 67.31) (xy 213.36 67.31)
+			(xy 209.55 72.39) (xy 212.09 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "144987a4-05f5-455f-9cc8-79e259def9ca")
-	)
-	(wire
-		(pts
-			(xy 254 67.31) (xy 255.27 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "14c71697-072c-40e4-84b7-af4d6e5b3eff")
 	)
 	(wire
 		(pts
@@ -2377,7 +2249,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 137.16) (xy 254 142.24)
+			(xy 252.73 137.16) (xy 252.73 134.62)
 		)
 		(stroke
 			(width 0)
@@ -2397,7 +2269,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 36.83) (xy 254 36.83)
+			(xy 250.19 41.91) (xy 252.73 41.91)
 		)
 		(stroke
 			(width 0)
@@ -2467,7 +2339,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 132.08) (xy 254 132.08)
+			(xy 252.73 137.16) (xy 255.27 137.16)
 		)
 		(stroke
 			(width 0)
@@ -2497,16 +2369,6 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 41.91) (xy 214.63 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "22ebbef3-4f58-4929-b9e9-b6e7d280fa7f")
-	)
-	(wire
-		(pts
 			(xy 110.49 64.77) (xy 113.03 64.77)
 		)
 		(stroke
@@ -2527,13 +2389,13 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 111.76) (xy 254 111.76)
+			(xy 212.09 72.39) (xy 214.63 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "28018032-4173-4046-b370-d5f336550bf9")
+		(uuid "277c390d-6096-456d-abf5-2b0ae3151c61")
 	)
 	(wire
 		(pts
@@ -2607,6 +2469,16 @@
 	)
 	(wire
 		(pts
+			(xy 212.09 41.91) (xy 214.63 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30253ad0-74df-4569-b31b-8b4b2c2c41ee")
+	)
+	(wire
+		(pts
 			(xy 20.32 119.38) (xy 20.32 121.92)
 		)
 		(stroke
@@ -2614,16 +2486,6 @@
 			(type default)
 		)
 		(uuid "3417e62b-5a47-4448-9985-26b03e10589c")
-	)
-	(wire
-		(pts
-			(xy 254 106.68) (xy 255.27 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "39f75faa-b885-4267-bcc9-aac433ad01c8")
 	)
 	(wire
 		(pts
@@ -2677,16 +2539,6 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 72.39) (xy 213.36 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "421236cb-326f-466f-ae51-9b8785e8226a")
-	)
-	(wire
-		(pts
 			(xy 265.43 67.31) (xy 266.7 67.31)
 		)
 		(stroke
@@ -2704,16 +2556,6 @@
 			(type default)
 		)
 		(uuid "47e7fd83-8bad-44aa-8ca7-6b5f263a0760")
-	)
-	(wire
-		(pts
-			(xy 213.36 67.31) (xy 214.63 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "480a3e3f-b376-42d8-8525-ee36cc7e8f24")
 	)
 	(wire
 		(pts
@@ -2737,33 +2579,13 @@
 	)
 	(wire
 		(pts
-			(xy 254 36.83) (xy 255.27 36.83)
+			(xy 212.09 106.68) (xy 212.09 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5054670f-27fd-4b75-a96d-44037ef714c1")
-	)
-	(wire
-		(pts
-			(xy 254 142.24) (xy 255.27 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "515a0461-f0dc-463e-bad8-2921bb93d3ea")
-	)
-	(wire
-		(pts
-			(xy 254 72.39) (xy 254 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "52d0c35b-a399-447f-96eb-01579979e57c")
+		(uuid "53502aa2-ff19-4c19-9cbc-2b9f5551f5a1")
 	)
 	(wire
 		(pts
@@ -2787,26 +2609,6 @@
 	)
 	(wire
 		(pts
-			(xy 254 36.83) (xy 254 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "59b31404-6199-4bb3-b13d-4d25cbbb8cd6")
-	)
-	(wire
-		(pts
-			(xy 213.36 101.6) (xy 213.36 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "59c01e75-caec-45c8-a9b3-4a7f383f8dc5")
-	)
-	(wire
-		(pts
 			(xy 50.8 116.84) (xy 50.8 119.38)
 		)
 		(stroke
@@ -2814,16 +2616,6 @@
 			(type default)
 		)
 		(uuid "5adee0f8-85b0-4418-a307-04f46ebc81fd")
-	)
-	(wire
-		(pts
-			(xy 254 67.31) (xy 254 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "62589b2e-55fc-4970-a982-e24dead3032d")
 	)
 	(wire
 		(pts
@@ -2837,16 +2629,6 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 36.83) (xy 214.63 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "69c44ddb-8969-474d-ab6d-5a1d6696ab97")
-	)
-	(wire
-		(pts
 			(xy 30.48 119.38) (xy 20.32 119.38)
 		)
 		(stroke
@@ -2857,17 +2639,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 77.47) (xy 255.27 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6e75372c-f52a-4f01-b55d-0ae78285f563")
-	)
-	(wire
-		(pts
-			(xy 213.36 137.16) (xy 213.36 142.24)
+			(xy 212.09 137.16) (xy 212.09 134.62)
 		)
 		(stroke
 			(width 0)
@@ -2884,16 +2656,6 @@
 			(type default)
 		)
 		(uuid "6fbeb1a3-05c9-4714-a986-f15d4aaa33d8")
-	)
-	(wire
-		(pts
-			(xy 254 72.39) (xy 255.27 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "73489050-9ca8-4ec5-9179-163551b80b92")
 	)
 	(wire
 		(pts
@@ -2987,7 +2749,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 36.83) (xy 213.36 36.83)
+			(xy 209.55 41.91) (xy 212.09 41.91)
 		)
 		(stroke
 			(width 0)
@@ -3004,26 +2766,6 @@
 			(type default)
 		)
 		(uuid "86f3f367-f4d6-4fee-a84d-a77425cbdaa5")
-	)
-	(wire
-		(pts
-			(xy 255.27 46.99) (xy 254 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "87d98efe-402d-4278-ac5e-915ded12704d")
-	)
-	(wire
-		(pts
-			(xy 213.36 46.99) (xy 214.63 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8cc3ed90-5526-4ef0-8e90-9772d1f1f36d")
 	)
 	(wire
 		(pts
@@ -3047,23 +2789,13 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 132.08) (xy 213.36 132.08)
+			(xy 209.55 137.16) (xy 212.09 137.16)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "9663eea9-b22b-457b-94c7-55193c05b764")
-	)
-	(wire
-		(pts
-			(xy 213.36 72.39) (xy 213.36 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9771814b-3430-4c86-a8a5-be17284663c1")
 	)
 	(wire
 		(pts
@@ -3107,16 +2839,6 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 101.6) (xy 214.63 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9eeb44c9-4203-485f-9f1f-abf35f255c66")
-	)
-	(wire
-		(pts
 			(xy 26.67 52.07) (xy 31.75 52.07)
 		)
 		(stroke
@@ -3124,6 +2846,16 @@
 			(type default)
 		)
 		(uuid "a0bfcd6e-70a3-42d8-827f-708971720a66")
+	)
+	(wire
+		(pts
+			(xy 212.09 137.16) (xy 214.63 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0ffb57b-3527-41b6-a904-779f6e8a5902")
 	)
 	(wire
 		(pts
@@ -3157,6 +2889,16 @@
 	)
 	(wire
 		(pts
+			(xy 212.09 72.39) (xy 212.09 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8e1fc22-e469-4f95-a438-525044823ad6")
+	)
+	(wire
+		(pts
 			(xy 161.29 40.64) (xy 172.72 40.64)
 		)
 		(stroke
@@ -3164,6 +2906,16 @@
 			(type default)
 		)
 		(uuid "ac17b933-48a8-4488-b187-307d868b9074")
+	)
+	(wire
+		(pts
+			(xy 252.73 72.39) (xy 255.27 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae21a8e2-05a8-44a2-85cc-1aef20f5b31f")
 	)
 	(wire
 		(pts
@@ -3197,26 +2949,6 @@
 	)
 	(wire
 		(pts
-			(xy 254 41.91) (xy 255.27 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b0554005-b7b4-4c28-a4c7-66b2ca10a9af")
-	)
-	(wire
-		(pts
-			(xy 254 132.08) (xy 254 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b154d69e-5687-4444-ba13-01f75ec9fb3d")
-	)
-	(wire
-		(pts
 			(xy 100.33 74.93) (xy 100.33 77.47)
 		)
 		(stroke
@@ -3224,16 +2956,6 @@
 			(type default)
 		)
 		(uuid "b88678c6-b6da-4479-a51e-68236b5c3332")
-	)
-	(wire
-		(pts
-			(xy 213.36 106.68) (xy 213.36 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b909ebe8-0656-4112-b27d-88b00be98f7d")
 	)
 	(wire
 		(pts
@@ -3257,16 +2979,6 @@
 	)
 	(wire
 		(pts
-			(xy 254 137.16) (xy 255.27 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bebb7d71-6785-49c2-9f9d-263818ef194f")
-	)
-	(wire
-		(pts
 			(xy 40.64 116.84) (xy 40.64 119.38)
 		)
 		(stroke
@@ -3287,26 +2999,6 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 137.16) (xy 213.36 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c4886b81-7ce1-49c0-b22a-e725d98f118e")
-	)
-	(wire
-		(pts
-			(xy 254 101.6) (xy 255.27 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c9ba4906-6569-43e8-a30d-61fc08f3927e")
-	)
-	(wire
-		(pts
 			(xy 24.13 36.83) (xy 26.67 36.83)
 		)
 		(stroke
@@ -3314,6 +3006,16 @@
 			(type default)
 		)
 		(uuid "cc5f83a2-ad89-45a0-ab3b-9c519fe5151a")
+	)
+	(wire
+		(pts
+			(xy 252.73 106.68) (xy 255.27 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cda6d092-250b-42a3-978c-0a2a928c211b")
 	)
 	(wire
 		(pts
@@ -3337,13 +3039,13 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 72.39) (xy 213.36 72.39)
+			(xy 252.73 41.91) (xy 255.27 41.91)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cf553a10-625e-4182-8954-99ff5787e3b0")
+		(uuid "d1a2d614-6905-4f69-b3bd-a817633ff1f5")
 	)
 	(wire
 		(pts
@@ -3367,6 +3069,26 @@
 	)
 	(wire
 		(pts
+			(xy 212.09 39.37) (xy 212.09 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d431761b-4960-455b-a549-c9f79a965855")
+	)
+	(wire
+		(pts
+			(xy 212.09 106.68) (xy 214.63 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5b8f2b0-e475-4a58-aa37-e027ee9b69bb")
+	)
+	(wire
+		(pts
 			(xy 224.79 101.6) (xy 226.06 101.6)
 		)
 		(stroke
@@ -3377,13 +3099,13 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 132.08) (xy 214.63 132.08)
+			(xy 252.73 41.91) (xy 252.73 39.37)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d93a5ca3-8ebc-42b9-9725-aae349d0a1df")
+		(uuid "d9020983-a11c-412c-ac57-bfabbd7758d5")
 	)
 	(wire
 		(pts
@@ -3417,7 +3139,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 101.6) (xy 254 101.6)
+			(xy 250.19 106.68) (xy 252.73 106.68)
 		)
 		(stroke
 			(width 0)
@@ -3447,16 +3169,6 @@
 	)
 	(wire
 		(pts
-			(xy 254 101.6) (xy 254 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e7dfa2f8-c363-4f4f-b807-d518370e02d7")
-	)
-	(wire
-		(pts
 			(xy 166.37 62.23) (xy 168.91 62.23)
 		)
 		(stroke
@@ -3464,6 +3176,16 @@
 			(type default)
 		)
 		(uuid "eb8c9a18-5309-4df1-8cf0-f852bd719cc8")
+	)
+	(wire
+		(pts
+			(xy 252.73 69.85) (xy 252.73 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebd61f60-b20d-43e6-b38e-430921810714")
 	)
 	(wire
 		(pts
@@ -3487,43 +3209,13 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 137.16) (xy 213.36 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1c7a084-bc69-418e-b189-8876d905c7e3")
-	)
-	(wire
-		(pts
-			(xy 254 106.68) (xy 254 111.76)
+			(xy 252.73 106.68) (xy 252.73 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f1f41886-5356-4bf9-b37a-7f344dae82ee")
-	)
-	(wire
-		(pts
-			(xy 254 41.91) (xy 254 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f23351e2-7765-4ebf-9760-a01006ef0efd")
-	)
-	(wire
-		(pts
-			(xy 213.36 36.83) (xy 213.36 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f339d1eb-4deb-4fcf-8c9a-b129f975b228")
 	)
 	(wire
 		(pts
@@ -3597,16 +3289,6 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 77.47) (xy 213.36 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fed62c63-b974-459d-a630-f3859885db20")
-	)
-	(wire
-		(pts
 			(xy 265.43 111.76) (xy 266.7 111.76)
 		)
 		(stroke
@@ -3614,16 +3296,6 @@
 			(type default)
 		)
 		(uuid "ff6a30a9-2703-4dea-ab50-4480bfec5538")
-	)
-	(wire
-		(pts
-			(xy 214.63 142.24) (xy 213.36 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ffddf0c8-3992-4216-aa12-51dede2b7a43")
 	)
 	(rectangle
 		(start 77.47 26.67)
@@ -3684,6 +3356,18 @@
 			(type none)
 		)
 		(uuid a4985105-b82f-40a1-b869-ab5d1402cfab)
+	)
+	(rectangle
+		(start 64.77 105.41)
+		(end 77.47 127)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid e9203038-3139-4933-9dc2-a889206cbb92)
 	)
 	(text "Bulk to reduce ringing"
 		(exclude_from_sim no)
@@ -3746,6 +3430,16 @@
 		)
 		(uuid "4083de49-b444-4af8-8f0e-c8db0e251975")
 	)
+	(text "Fiducial Marks"
+		(exclude_from_sim no)
+		(at 71.628 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "634b859b-c797-440f-9831-75bb62208f83")
+	)
 	(text "2.7-5.5V"
 		(exclude_from_sim no)
 		(at 29.718 35.052 0)
@@ -3755,16 +3449,6 @@
 			)
 		)
 		(uuid "67547099-2037-44ff-9eb3-a4613b145b66")
-	)
-	(text "2.7-5.5V"
-		(exclude_from_sim no)
-		(at 159.004 38.354 0)
-		(effects
-			(font
-				(size 0.635 0.635)
-			)
-		)
-		(uuid "6ab24020-260c-4efe-b0b3-ef8dcccdaca1")
 	)
 	(text "U2 LEDS"
 		(exclude_from_sim no)
@@ -3806,9 +3490,9 @@
 		)
 		(uuid "e1a30e95-f2ea-4e66-9cc7-cc7319f1e743")
 	)
-	(text "2.7-5.5V"
+	(text "2.7-5.5V but is practially limited by LED selection"
 		(exclude_from_sim no)
-		(at 103.124 38.354 0)
+		(at 113.538 38.608 0)
 		(effects
 			(font
 				(size 0.635 0.635)
@@ -3825,6 +3509,16 @@
 			)
 		)
 		(uuid "eeb019c0-bfc1-4395-80e8-d75bece92b28")
+	)
+	(text "2.7-5.5V but is practially limited by LED selection"
+		(exclude_from_sim no)
+		(at 169.418 38.862 0)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+		)
+		(uuid "f7616f3a-82ea-4402-a71e-a535a0a1ad00")
 	)
 	(global_label "OUT2_B"
 		(shape bidirectional)
@@ -4202,7 +3896,7 @@
 	)
 	(global_label "OUT1_A"
 		(shape bidirectional)
-		(at 252.73 36.83 180)
+		(at 250.19 41.91 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4212,7 +3906,7 @@
 		)
 		(uuid "5cb15681-fb8e-456d-912c-6d0d8b7976e9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 241.7392 36.83 0)
+			(at 239.1992 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4224,7 +3918,7 @@
 	)
 	(global_label "OUT0_B"
 		(shape bidirectional)
-		(at 212.09 101.6 180)
+		(at 209.55 106.68 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4234,7 +3928,7 @@
 		)
 		(uuid "5ce24354-bf41-4db1-ac84-8d06e46ec42c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 201.0992 101.6 0)
+			(at 198.5592 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4488,7 +4182,7 @@
 	)
 	(global_label "OUT3_B"
 		(shape bidirectional)
-		(at 252.73 132.08 180)
+		(at 250.19 137.16 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4498,7 +4192,7 @@
 		)
 		(uuid "9cb8cb23-4f11-4a24-9850-f9634b1f3037")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 241.7392 132.08 0)
+			(at 239.1992 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4510,7 +4204,7 @@
 	)
 	(global_label "OUT1_B"
 		(shape bidirectional)
-		(at 252.73 101.6 180)
+		(at 250.19 106.68 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4520,7 +4214,7 @@
 		)
 		(uuid "a11fe810-e9b6-4a26-baec-2e71612a1af0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 241.7392 101.6 0)
+			(at 239.1992 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4576,7 +4270,7 @@
 	)
 	(global_label "OUT2_B"
 		(shape bidirectional)
-		(at 212.09 132.08 180)
+		(at 209.55 137.16 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4586,7 +4280,7 @@
 		)
 		(uuid "aa3ab818-5359-4fba-958d-3a8f110cf267")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 201.0992 132.08 0)
+			(at 198.5592 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4642,7 +4336,7 @@
 	)
 	(global_label "OUT0_A"
 		(shape bidirectional)
-		(at 212.09 36.83 180)
+		(at 209.55 41.91 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4652,7 +4346,7 @@
 		)
 		(uuid "b0f6b5ac-3457-407f-9d52-638573847a41")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 201.0992 36.83 0)
+			(at 198.5592 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4686,7 +4380,7 @@
 	)
 	(global_label "OUT2_A"
 		(shape bidirectional)
-		(at 212.09 67.31 180)
+		(at 209.55 72.39 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4696,7 +4390,7 @@
 		)
 		(uuid "b8f58c10-2676-4a1a-98e2-821d28d19e1f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 201.0992 67.31 0)
+			(at 198.5592 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4708,7 +4402,7 @@
 	)
 	(global_label "OUT3_A"
 		(shape bidirectional)
-		(at 252.73 67.31 180)
+		(at 250.19 72.39 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4718,7 +4412,7 @@
 		)
 		(uuid "c0d73907-b922-48e3-9793-426b9644c82d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 241.7392 67.31 0)
+			(at 239.1992 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4949,140 +4643,8 @@
 		)
 	)
 	(symbol
-		(lib_id "ASMB-TTF0-0A20B:ASMB-TTF0-0A20B")
-		(at 262.89 50.8 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "20a1919c-eee7-4086-9b7b-b5f057468f2c")
-		(property "Reference" "LED3"
-			(at 260.35 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "ASMB-TTF0-0A20B"
-			(at 260.35 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "ASMB-TTF0-0A20B:ASMBTTF00A20B"
-			(at 218.44 -44.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/ASMB-TTF0-0A20B.pdf"
-			(at 218.44 -144.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "BROADCOM LIMITED - ASMB-TTF0-0A20B - LED, RGB, 710/1840/410MCD, PLCC-6"
-			(at 249.428 57.404 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "2"
-			(at 218.44 -344.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "630-ASMB-TTF0-0A20B"
-			(at 218.44 -444.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ASMB-TTF0-0A20B?qs=j%252B1pi9TdxUbzVLPA%2F5LflQ%3D%3D"
-			(at 218.44 -544.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Avago Technologies"
-			(at 218.44 -644.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "ASMB-TTF0-0A20B"
-			(at 218.44 -744.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "a0af5c96-466b-4a46-bb61-1261a05cb4bc")
-		)
-		(pin "6"
-			(uuid "7a33f11d-2c78-47a6-9d70-ae2fae2d52cc")
-		)
-		(pin "2"
-			(uuid "db957038-eaf2-4a91-b08e-f6541317def3")
-		)
-		(pin "4"
-			(uuid "0fc29823-9a77-47b7-8059-8d244ceaf44b")
-		)
-		(pin "5"
-			(uuid "ecb09ce9-4669-451f-9d77-21682ad4a596")
-		)
-		(pin "1"
-			(uuid "1f12037e-4f24-49d4-ac77-30758c9c61b7")
-		)
-		(instances
-			(project "LP5812_dev_board"
-				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "LED3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 254 142.24 90)
+		(at 252.73 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5090,7 +4652,7 @@
 		(dnp no)
 		(uuid "24a4815d-eb1b-418d-9032-edda463daf13")
 		(property "Reference" "TP8"
-			(at 250.19 140.208 90)
+			(at 252.476 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5098,7 +4660,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 250.698 139.7 90)
+			(at 255.27 131.318 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5106,7 +4668,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 254 137.16 0)
+			(at 257.81 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5115,7 +4677,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 254 137.16 0)
+			(at 257.81 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5124,7 +4686,43 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 254 142.24 0)
+			(at 252.73 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 252.73 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 252.73 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 252.73 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 252.73 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5139,6 +4737,125 @@
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
 					(reference "TP8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_RABG")
+		(at 260.35 72.39 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2a04337c-9b16-420b-8615-b1b198a56a45")
+		(property "Reference" "D4"
+			(at 260.35 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_RABG"
+			(at 260.35 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "CLVBA-FKA-CAEDH8BBB7A363:CLVBAFKACAEDH8BBB7A363"
+			(at 260.35 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/723/CLVBAFKA-2511032.pdf"
+			(at 260.35 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED, red/anode/blue/green"
+			(at 260.35 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 260.35 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 260.35 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 260.35 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 260.35 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Cree-LED/CLVBA-FKA-CAEDH8BBB7a363?qs=3AcK5DacLboXYkg4biCgSA%3D%3D"
+			(at 260.35 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5293aeb0-90d0-4fe7-97d6-bb3239f0a654")
+		)
+		(pin "4"
+			(uuid "d22c3571-edf0-4778-b41c-3dfd3d74ceb4")
+		)
+		(pin "3"
+			(uuid "3be2b56a-cf7d-4981-b283-c1b584d18e19")
+		)
+		(pin "1"
+			(uuid "a6b9d290-725d-4686-a26b-eeafc8f239b5")
+		)
+		(instances
+			(project "LP5812_dev_board"
+				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -5200,6 +4917,42 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL21A106KOQNNNE?qs=sGAEpiMZZMs7ZEmUmaUL0zYKGA%2FRCt7uSHxBFJEYiDg%3D"
+			(at 172.72 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 172.72 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 172.72 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 172.72 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 172.72 44.45 0)
 			(effects
 				(font
@@ -5284,6 +5037,42 @@
 				(hide yes)
 			)
 		)
+		(property "Height" ""
+			(at 35.56 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 35.56 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 35.56 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 35.56 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9c6427db-7f37-468e-bc82-02b8b6d853fa")
 		)
@@ -5343,6 +5132,42 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 24.13 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 24.13 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 24.13 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 24.13 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 24.13 36.83 0)
 			(effects
 				(font
@@ -5416,6 +5241,42 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10A225KO8NNWC?qs=sGAEpiMZZMs7ZEmUmaUL06CpSeepzGk6qcGGNzthohc%3D"
+			(at 35.56 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 35.56 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 35.56 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 35.56 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 35.56 66.04 0)
 			(effects
 				(font
@@ -5503,6 +5364,42 @@
 				(hide yes)
 			)
 		)
+		(property "Height" ""
+			(at 161.29 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 161.29 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 161.29 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 161.29 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9e7682dd-898e-4230-9474-9b5e3f98f32d")
 		)
@@ -5520,7 +5417,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 254 111.76 90)
+		(at 252.73 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5528,7 +5425,7 @@
 		(dnp no)
 		(uuid "424cf2a4-533a-402f-bb8c-ab4eab0740f4")
 		(property "Reference" "TP4"
-			(at 250.19 109.728 90)
+			(at 252.73 98.806 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5536,7 +5433,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 250.698 109.22 90)
+			(at 255.27 100.838 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5544,7 +5441,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 254 106.68 0)
+			(at 257.81 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5553,7 +5450,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 254 106.68 0)
+			(at 257.81 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5562,7 +5459,43 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 254 111.76 0)
+			(at 252.73 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 252.73 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 252.73 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 252.73 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 252.73 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5649,53 +5582,35 @@
 		)
 	)
 	(symbol
-		(lib_id "ASMB-TTF0-0A20B:ASMB-TTF0-0A20B")
-		(at 262.89 81.28 180)
+		(lib_id "Mechanical:Fiducial")
+		(at 68.58 123.19 0)
 		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
+		(exclude_from_sim yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "4fdb0cb7-da48-43b1-b9e4-46ec829a9d11")
-		(property "Reference" "LED7"
-			(at 260.35 59.69 0)
+		(uuid "4af70d0c-e628-4196-9a92-12268324c5b7")
+		(property "Reference" "FID3"
+			(at 71.12 121.9199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "ASMB-TTF0-0A20B"
-			(at 260.35 62.23 0)
+		(property "Value" "~"
+			(at 71.12 124.4599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" "ASMB-TTF0-0A20B:ASMBTTF00A20B"
-			(at 218.44 -13.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/ASMB-TTF0-0A20B.pdf"
-			(at 218.44 -113.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "BROADCOM LIMITED - ASMB-TTF0-0A20B - LED, RGB, 710/1840/410MCD, PLCC-6"
-			(at 249.428 87.884 0)
+		(property "Footprint" "Fiducial:Fiducial_1mm_Mask3mm"
+			(at 68.58 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5703,78 +5618,164 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "2"
-			(at 218.44 -313.64 0)
+		(property "Datasheet" "~"
+			(at 68.58 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "630-ASMB-TTF0-0A20B"
-			(at 218.44 -413.64 0)
+		(property "Description" "Fiducial Marker"
+			(at 68.58 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ASMB-TTF0-0A20B?qs=j%252B1pi9TdxUbzVLPA%2F5LflQ%3D%3D"
-			(at 218.44 -513.64 0)
+		(property "Height" ""
+			(at 68.58 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "Avago Technologies"
-			(at 218.44 -613.64 0)
+		(property "Manufacturer_Name" ""
+			(at 68.58 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ASMB-TTF0-0A20B"
-			(at 218.44 -713.64 0)
+		(property "Manufacturer_Part_Number" ""
+			(at 68.58 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(pin "3"
-			(uuid "ce434247-f93d-4c50-8f43-88f63f6507bf")
-		)
-		(pin "6"
-			(uuid "3ad5bdb7-4a47-46c0-a032-952864b0b93f")
-		)
-		(pin "2"
-			(uuid "d2171695-341f-43df-8494-80a1a8447046")
-		)
-		(pin "4"
-			(uuid "c5ecb873-a605-4ac7-bed3-5b21eabd514c")
-		)
-		(pin "5"
-			(uuid "3f67bf03-d2c8-4da8-bfb6-fc3d4993d45b")
-		)
-		(pin "1"
-			(uuid "235850eb-d808-4925-8dcc-15d25bf8d524")
+		(property "Mouser Part Number" ""
+			(at 68.58 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
 		)
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "LED7")
+					(reference "FID3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:Fiducial")
+		(at 68.58 110.49 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4c27374d-ac4f-4acb-b786-88e6c4e5daf4")
+		(property "Reference" "FID1"
+			(at 71.12 109.2199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 71.12 111.7599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Fiducial:Fiducial_1mm_Mask3mm"
+			(at 68.58 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 68.58 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fiducial Marker"
+			(at 68.58 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 68.58 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 68.58 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 68.58 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 68.58 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "LP5812_dev_board"
+				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
+					(reference "FID1")
 					(unit 1)
 				)
 			)
@@ -5844,6 +5845,42 @@
 				(hide yes)
 			)
 		)
+		(property "Height" ""
+			(at 116.84 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 116.84 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 116.84 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 116.84 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "27af2a56-ff71-4ada-985a-d4250fe88ad3")
 		)
@@ -5861,7 +5898,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 213.36 142.24 90)
+		(at 212.09 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5869,7 +5906,7 @@
 		(dnp no)
 		(uuid "566710f6-f25b-4d9b-98a5-cb02782b9664")
 		(property "Reference" "TP6"
-			(at 209.55 140.208 90)
+			(at 212.09 129.032 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5877,7 +5914,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 210.058 139.7 90)
+			(at 214.63 131.318 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5885,7 +5922,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 213.36 137.16 0)
+			(at 217.17 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5894,7 +5931,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 213.36 137.16 0)
+			(at 217.17 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5903,7 +5940,43 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 213.36 142.24 0)
+			(at 212.09 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 212.09 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 212.09 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 212.09 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 212.09 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5970,6 +6043,42 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 40.64 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 40.64 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 40.64 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 40.64 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 40.64 114.3 0)
 			(effects
 				(font
@@ -6112,6 +6221,42 @@
 				(hide yes)
 			)
 		)
+		(property "Height" ""
+			(at 20.32 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 20.32 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 20.32 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 20.32 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "04fa670b-4d6d-4a80-b5d4-45400711ff1a")
 		)
@@ -6126,7 +6271,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 254 77.47 90)
+		(at 252.73 69.85 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6134,7 +6279,7 @@
 		(dnp no)
 		(uuid "63211e08-0e51-4767-91bf-1ee86f0ad32f")
 		(property "Reference" "TP7"
-			(at 250.19 75.438 90)
+			(at 252.984 64.262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6142,7 +6287,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 250.698 74.93 90)
+			(at 255.27 66.548 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6150,7 +6295,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 254 72.39 0)
+			(at 257.81 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6159,7 +6304,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 254 72.39 0)
+			(at 257.81 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6168,7 +6313,43 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 254 77.47 0)
+			(at 252.73 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 252.73 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 252.73 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 252.73 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 252.73 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6235,6 +6416,42 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 34.29 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 34.29 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 34.29 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 34.29 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 34.29 77.47 0)
 			(effects
 				(font
@@ -6385,6 +6602,42 @@
 				(hide yes)
 			)
 		)
+		(property "Height" ""
+			(at 156.21 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 156.21 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 156.21 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 156.21 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e9a6649e-ca8e-40f9-b158-2044e041815f")
 		)
@@ -6450,6 +6703,42 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10A225KO8NNWC?qs=sGAEpiMZZMs7ZEmUmaUL06CpSeepzGk6qcGGNzthohc%3D"
+			(at 35.56 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 35.56 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 35.56 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 35.56 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 35.56 52.07 0)
 			(effects
 				(font
@@ -6528,6 +6817,42 @@
 				(hide yes)
 			)
 		)
+		(property "Height" ""
+			(at 30.48 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 30.48 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 30.48 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 30.48 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6ed27260-e35a-4aba-8918-aa761f90c294")
 		)
@@ -6541,53 +6866,33 @@
 		)
 	)
 	(symbol
-		(lib_id "ASMB-TTF0-0A20B:ASMB-TTF0-0A20B")
-		(at 222.25 146.05 180)
+		(lib_id "Device:LED_RABG")
+		(at 260.35 106.68 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "8b7dcda1-5e7f-462f-a610-eb7e428ffce9")
-		(property "Reference" "LED6"
-			(at 219.71 124.46 0)
+		(uuid "84434c8e-6dd9-4d2f-860f-fbedd7b6958b")
+		(property "Reference" "D6"
+			(at 260.35 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "ASMB-TTF0-0A20B"
-			(at 219.71 127 0)
+		(property "Value" "LED_RABG"
+			(at 260.35 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "ASMB-TTF0-0A20B:ASMBTTF00A20B"
-			(at 177.8 51.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/ASMB-TTF0-0A20B.pdf"
-			(at 177.8 -48.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "BROADCOM LIMITED - ASMB-TTF0-0A20B - LED, RGB, 710/1840/410MCD, PLCC-6"
-			(at 208.788 152.654 0)
+		(property "Footprint" "CLVBA-FKA-CAEDH8BBB7A363:CLVBAFKACAEDH8BBB7A363"
+			(at 260.35 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6595,78 +6900,85 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "2"
-			(at 177.8 -248.87 0)
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/723/CLVBAFKA-2511032.pdf"
+			(at 260.35 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "630-ASMB-TTF0-0A20B"
-			(at 177.8 -348.87 0)
+		(property "Description" "RGB LED, red/anode/blue/green"
+			(at 260.35 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ASMB-TTF0-0A20B?qs=j%252B1pi9TdxUbzVLPA%2F5LflQ%3D%3D"
-			(at 177.8 -448.87 0)
+		(property "Height" ""
+			(at 260.35 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "Avago Technologies"
-			(at 177.8 -548.87 0)
+		(property "Manufacturer_Name" ""
+			(at 260.35 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ASMB-TTF0-0A20B"
-			(at 177.8 -648.87 0)
+		(property "Manufacturer_Part_Number" ""
+			(at 260.35 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(pin "3"
-			(uuid "dec714e4-5ec9-48c2-bdf6-ebfa384529ea")
+		(property "Mouser Part Number" ""
+			(at 260.35 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
 		)
-		(pin "6"
-			(uuid "79d5a512-ce11-404b-aaff-47b9ea04fb73")
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Cree-LED/CLVBA-FKA-CAEDH8BBB7a363?qs=3AcK5DacLboXYkg4biCgSA%3D%3D"
+			(at 260.35 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
 		)
 		(pin "2"
-			(uuid "15dc5552-122f-42d6-9b9a-1beb7808eb5f")
+			(uuid "8d6d68f8-b255-4e9a-b593-dac121de1437")
 		)
 		(pin "4"
-			(uuid "5bf708f6-0c4e-4012-bbb3-73ee71d6c795")
+			(uuid "f0c15da9-f009-4bef-b805-7a51eefb161b")
 		)
-		(pin "5"
-			(uuid "6b572566-ce6a-4c1f-904d-2ff6568855dd")
+		(pin "3"
+			(uuid "1c1718ae-21ca-43c8-ba60-f9532452e2f6")
 		)
 		(pin "1"
-			(uuid "9dc134e3-1dea-4e34-a8c1-b335ca2e1845")
+			(uuid "3e0ff990-0086-4e24-b52b-1129a6200eb3")
 		)
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "LED6")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -6674,7 +6986,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 213.36 111.76 90)
+		(at 212.09 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6682,7 +6994,7 @@
 		(dnp no)
 		(uuid "8dccb94e-6c0e-4d8c-b840-f514e1533f0c")
 		(property "Reference" "TP2"
-			(at 209.55 109.728 90)
+			(at 212.09 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6690,7 +7002,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 210.058 109.22 90)
+			(at 214.63 100.838 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6698,7 +7010,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 213.36 106.68 0)
+			(at 217.17 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6707,7 +7019,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 213.36 106.68 0)
+			(at 217.17 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6716,7 +7028,43 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 213.36 111.76 0)
+			(at 212.09 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 212.09 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 212.09 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 212.09 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 212.09 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6788,6 +7136,42 @@
 				(hide yes)
 			)
 		)
+		(property "Height" ""
+			(at 100.33 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 100.33 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 100.33 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 100.33 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8cd8782f-1f11-4d8d-aeda-d57c68b8e7a4")
 		)
@@ -6801,140 +7185,8 @@
 		)
 	)
 	(symbol
-		(lib_id "ASMB-TTF0-0A20B:ASMB-TTF0-0A20B")
-		(at 222.25 115.57 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "939f8e92-074a-4fe2-a780-060aed3d3c7f")
-		(property "Reference" "LED2"
-			(at 219.71 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "ASMB-TTF0-0A20B"
-			(at 219.71 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "ASMB-TTF0-0A20B:ASMBTTF00A20B"
-			(at 177.8 20.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/ASMB-TTF0-0A20B.pdf"
-			(at 177.8 -79.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "BROADCOM LIMITED - ASMB-TTF0-0A20B - LED, RGB, 710/1840/410MCD, PLCC-6"
-			(at 208.788 122.174 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "2"
-			(at 177.8 -279.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "630-ASMB-TTF0-0A20B"
-			(at 177.8 -379.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ASMB-TTF0-0A20B?qs=j%252B1pi9TdxUbzVLPA%2F5LflQ%3D%3D"
-			(at 177.8 -479.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Avago Technologies"
-			(at 177.8 -579.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "ASMB-TTF0-0A20B"
-			(at 177.8 -679.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "0692bb63-d828-4de9-ada4-82e91de43021")
-		)
-		(pin "6"
-			(uuid "4a290897-cd5b-4dd0-903d-bad875a48cf9")
-		)
-		(pin "2"
-			(uuid "effd2ebb-f683-44ee-b5c7-b62552e83637")
-		)
-		(pin "4"
-			(uuid "ee8cba20-fff9-4b79-aa61-9f465d45220a")
-		)
-		(pin "5"
-			(uuid "0d199b20-b4a9-499a-ad2b-a34d9ab278b7")
-		)
-		(pin "1"
-			(uuid "e92800d5-1a6f-4768-8d34-a5a8e28d0d16")
-		)
-		(instances
-			(project "LP5812_dev_board"
-				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "LED2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 213.36 77.47 90)
+		(at 212.09 69.85 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6942,7 +7194,7 @@
 		(dnp no)
 		(uuid "96b52a35-2f0f-4489-94f0-498b641e4276")
 		(property "Reference" "TP5"
-			(at 209.55 75.438 90)
+			(at 212.09 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6950,7 +7202,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 210.058 74.93 90)
+			(at 214.63 66.548 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6958,7 +7210,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 213.36 72.39 0)
+			(at 217.17 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6967,7 +7219,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 213.36 72.39 0)
+			(at 217.17 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6976,7 +7228,43 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 213.36 77.47 0)
+			(at 212.09 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 212.09 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 212.09 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 212.09 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 212.09 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6997,16 +7285,135 @@
 		)
 	)
 	(symbol
-		(lib_id "ASMB-TTF0-0A20B:ASMB-TTF0-0A20B")
-		(at 222.25 81.28 180)
+		(lib_id "Device:LED_RABG")
+		(at 219.71 106.68 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "a352b242-f1a1-4f78-94b2-340f78f83fb1")
-		(property "Reference" "LED5"
+		(uuid "98756651-2583-43bb-a4f8-7f0e0e3c7528")
+		(property "Reference" "D5"
+			(at 219.71 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_RABG"
+			(at 219.71 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "CLVBA-FKA-CAEDH8BBB7A363:CLVBAFKACAEDH8BBB7A363"
+			(at 219.71 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/723/CLVBAFKA-2511032.pdf"
+			(at 219.71 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED, red/anode/blue/green"
+			(at 219.71 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 219.71 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 219.71 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 219.71 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 219.71 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Cree-LED/CLVBA-FKA-CAEDH8BBB7a363?qs=3AcK5DacLboXYkg4biCgSA%3D%3D"
+			(at 219.71 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8b69a8e2-5183-4647-a9ee-5a51a763dd40")
+		)
+		(pin "4"
+			(uuid "2e20d747-8e79-46c7-9967-2e295835098b")
+		)
+		(pin "3"
+			(uuid "eb730fa2-78e3-4cc7-bafe-e6a16efd4789")
+		)
+		(pin "1"
+			(uuid "c013be9b-f68a-4cce-adc0-c5dfdc2378e6")
+		)
+		(instances
+			(project "LP5812_dev_board"
+				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
+					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_RABG")
+		(at 219.71 72.39 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a2632539-a147-436b-b619-9e201a49bb76")
+		(property "Reference" "D3"
 			(at 219.71 59.69 0)
 			(effects
 				(font
@@ -7014,7 +7421,7 @@
 				)
 			)
 		)
-		(property "Value" "ASMB-TTF0-0A20B"
+		(property "Value" "LED_RABG"
 			(at 219.71 62.23 0)
 			(effects
 				(font
@@ -7022,28 +7429,8 @@
 				)
 			)
 		)
-		(property "Footprint" "ASMB-TTF0-0A20B:ASMBTTF00A20B"
-			(at 177.8 -13.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/ASMB-TTF0-0A20B.pdf"
-			(at 177.8 -113.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "BROADCOM LIMITED - ASMB-TTF0-0A20B - LED, RGB, 710/1840/410MCD, PLCC-6"
-			(at 208.788 87.884 0)
+		(property "Footprint" "CLVBA-FKA-CAEDH8BBB7A363:CLVBAFKACAEDH8BBB7A363"
+			(at 219.71 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7051,78 +7438,85 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "2"
-			(at 177.8 -313.64 0)
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/723/CLVBAFKA-2511032.pdf"
+			(at 219.71 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "630-ASMB-TTF0-0A20B"
-			(at 177.8 -413.64 0)
+		(property "Description" "RGB LED, red/anode/blue/green"
+			(at 219.71 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ASMB-TTF0-0A20B?qs=j%252B1pi9TdxUbzVLPA%2F5LflQ%3D%3D"
-			(at 177.8 -513.64 0)
+		(property "Height" ""
+			(at 219.71 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "Avago Technologies"
-			(at 177.8 -613.64 0)
+		(property "Manufacturer_Name" ""
+			(at 219.71 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ASMB-TTF0-0A20B"
-			(at 177.8 -713.64 0)
+		(property "Manufacturer_Part_Number" ""
+			(at 219.71 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(pin "3"
-			(uuid "216ef5a2-b716-4c49-9c27-0e179d248a3c")
+		(property "Mouser Part Number" ""
+			(at 219.71 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
 		)
-		(pin "6"
-			(uuid "4024746b-698c-46c3-988f-1fc2b9b825af")
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Cree-LED/CLVBA-FKA-CAEDH8BBB7a363?qs=3AcK5DacLboXYkg4biCgSA%3D%3D"
+			(at 219.71 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
 		)
 		(pin "2"
-			(uuid "220c0e04-9176-4737-820f-80d4a6ceddca")
+			(uuid "fadc7a39-2401-4186-b4b1-95a5375ede71")
 		)
 		(pin "4"
-			(uuid "ad864e97-abfd-46e3-a635-c3250a841373")
+			(uuid "185a1bd5-52d4-45f9-a776-8f2a2c92b27b")
 		)
-		(pin "5"
-			(uuid "e6fd9e6b-4781-4b73-8a91-baf21de888a2")
+		(pin "3"
+			(uuid "bc9e7a10-b643-4afe-8ba4-cf6bd7a91696")
 		)
 		(pin "1"
-			(uuid "c743f103-e5e8-4c35-b2cc-6d92085cc76d")
+			(uuid "8a531b59-d08b-493a-8b9e-de18624e689c")
 		)
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "LED5")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -7392,6 +7786,42 @@
 				(hide yes)
 			)
 		)
+		(property "Height" ""
+			(at 148.59 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 148.59 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 148.59 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 148.59 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3ec59086-60fd-4b49-84fa-0f255ae98d97")
 		)
@@ -7491,6 +7921,42 @@
 				(hide yes)
 			)
 		)
+		(property "Height" ""
+			(at 92.71 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 92.71 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 92.71 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 92.71 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "427b1f7f-bbd6-4396-b572-09393c38a9ee")
 		)
@@ -7522,6 +7988,125 @@
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
 					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_RABG")
+		(at 260.35 41.91 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c3706251-e2c6-45f3-8d54-a2641ac1d28d")
+		(property "Reference" "D2"
+			(at 260.35 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_RABG"
+			(at 260.35 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "CLVBA-FKA-CAEDH8BBB7A363:CLVBAFKACAEDH8BBB7A363"
+			(at 260.35 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/723/CLVBAFKA-2511032.pdf"
+			(at 260.35 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED, red/anode/blue/green"
+			(at 260.35 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 260.35 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 260.35 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 260.35 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 260.35 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Cree-LED/CLVBA-FKA-CAEDH8BBB7a363?qs=3AcK5DacLboXYkg4biCgSA%3D%3D"
+			(at 260.35 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e25ba02f-e5a8-4076-9c58-8a959336f3e4")
+		)
+		(pin "4"
+			(uuid "24492af4-8bb9-446c-b77b-0edf2fdb287e")
+		)
+		(pin "3"
+			(uuid "5c8a433f-a95c-4da4-a023-70dec76a6bc5")
+		)
+		(pin "1"
+			(uuid "0c8d5cff-eafd-4507-bd8a-59d4ac6e0ee9")
+		)
+		(instances
+			(project "LP5812_dev_board"
+				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -7582,6 +8167,42 @@
 				(hide yes)
 			)
 		)
+		(property "Height" ""
+			(at 50.8 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 50.8 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 50.8 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 50.8 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cb043654-5fd4-4874-a8c7-0aae2682edfe")
 		)
@@ -7596,7 +8217,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 254 46.99 90)
+		(at 252.73 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7604,7 +8225,7 @@
 		(dnp no)
 		(uuid "c7fdbd72-af41-4bf8-be71-5ab0a6f00254")
 		(property "Reference" "TP3"
-			(at 250.19 44.958 90)
+			(at 252.476 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7612,7 +8233,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 250.698 44.45 90)
+			(at 255.27 36.068 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7620,7 +8241,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 254 41.91 0)
+			(at 257.81 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7629,7 +8250,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 254 41.91 0)
+			(at 257.81 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7638,7 +8259,43 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 254 46.99 0)
+			(at 252.73 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 252.73 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 252.73 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 252.73 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 252.73 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7653,138 +8310,6 @@
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
 					(reference "TP3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ASMB-TTF0-0A20B:ASMB-TTF0-0A20B")
-		(at 262.89 146.05 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cc4f8a3b-a2f5-46ff-a36f-911e94f1e9d6")
-		(property "Reference" "LED8"
-			(at 260.35 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "ASMB-TTF0-0A20B"
-			(at 260.35 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "ASMB-TTF0-0A20B:ASMBTTF00A20B"
-			(at 218.44 51.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/ASMB-TTF0-0A20B.pdf"
-			(at 218.44 -48.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "BROADCOM LIMITED - ASMB-TTF0-0A20B - LED, RGB, 710/1840/410MCD, PLCC-6"
-			(at 249.428 152.654 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "2"
-			(at 218.44 -248.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "630-ASMB-TTF0-0A20B"
-			(at 218.44 -348.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ASMB-TTF0-0A20B?qs=j%252B1pi9TdxUbzVLPA%2F5LflQ%3D%3D"
-			(at 218.44 -448.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Avago Technologies"
-			(at 218.44 -548.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "ASMB-TTF0-0A20B"
-			(at 218.44 -648.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "cbc5046c-7a69-4118-b7fb-2b5d1fa5a78a")
-		)
-		(pin "6"
-			(uuid "684ed769-4660-4330-b6a6-97f059c9a2bc")
-		)
-		(pin "2"
-			(uuid "49bf2ecc-7ecd-498a-96b7-e392ed07e2ad")
-		)
-		(pin "4"
-			(uuid "cdc6d6e4-1399-4583-a96b-c1a3fa08e717")
-		)
-		(pin "5"
-			(uuid "ea36909c-bbf7-4521-ab1f-09e0b08c3b2d")
-		)
-		(pin "1"
-			(uuid "b3d7d0e7-1200-4a1d-850b-2ab08d6c0caa")
-		)
-		(instances
-			(project "LP5812_dev_board"
-				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "LED8")
 					(unit 1)
 				)
 			)
@@ -7854,6 +8379,42 @@
 				(hide yes)
 			)
 		)
+		(property "Height" ""
+			(at 105.41 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 105.41 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 105.41 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 105.41 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "723dd963-b9ad-4b1c-ab58-d4a2156a5e6c")
 		)
@@ -7870,53 +8431,33 @@
 		)
 	)
 	(symbol
-		(lib_id "ASMB-TTF0-0A20B:ASMB-TTF0-0A20B")
-		(at 262.89 115.57 180)
+		(lib_id "Device:LED_RABG")
+		(at 219.71 41.91 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "d6b7aebd-b4be-4a90-be5f-73c2d5dd810d")
-		(property "Reference" "LED4"
-			(at 260.35 93.98 0)
+		(uuid "d72c3ce5-0e7c-406c-8b0c-4b8cd45e6c4b")
+		(property "Reference" "D1"
+			(at 219.71 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "ASMB-TTF0-0A20B"
-			(at 260.35 96.52 0)
+		(property "Value" "LED_RABG"
+			(at 219.71 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "ASMB-TTF0-0A20B:ASMBTTF00A20B"
-			(at 218.44 20.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/ASMB-TTF0-0A20B.pdf"
-			(at 218.44 -79.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "BROADCOM LIMITED - ASMB-TTF0-0A20B - LED, RGB, 710/1840/410MCD, PLCC-6"
-			(at 249.428 122.174 0)
+		(property "Footprint" "CLVBA-FKA-CAEDH8BBB7A363:CLVBAFKACAEDH8BBB7A363"
+			(at 219.71 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7924,78 +8465,204 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "2"
-			(at 218.44 -279.35 0)
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/723/CLVBAFKA-2511032.pdf"
+			(at 219.71 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "630-ASMB-TTF0-0A20B"
-			(at 218.44 -379.35 0)
+		(property "Description" "RGB LED, red/anode/blue/green"
+			(at 219.71 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ASMB-TTF0-0A20B?qs=j%252B1pi9TdxUbzVLPA%2F5LflQ%3D%3D"
-			(at 218.44 -479.35 0)
+		(property "Height" ""
+			(at 219.71 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "Avago Technologies"
-			(at 218.44 -579.35 0)
+		(property "Manufacturer_Name" ""
+			(at 219.71 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ASMB-TTF0-0A20B"
-			(at 218.44 -679.35 0)
+		(property "Manufacturer_Part_Number" ""
+			(at 219.71 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(pin "3"
-			(uuid "f3da3a4f-4e6d-4a28-9871-49b84c49d106")
+		(property "Mouser Part Number" ""
+			(at 219.71 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
 		)
-		(pin "6"
-			(uuid "da09aa5f-0b58-453e-83d6-fde72a18937e")
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Cree-LED/CLVBA-FKA-CAEDH8BBB7a363?qs=3AcK5DacLboXYkg4biCgSA%3D%3D"
+			(at 219.71 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
 		)
 		(pin "2"
-			(uuid "36ea107e-daed-46eb-a539-26ce58f836a2")
+			(uuid "2c283453-b261-4e4c-9754-043633f59e9b")
 		)
 		(pin "4"
-			(uuid "5396a2be-0040-4af7-991d-a219a461a254")
+			(uuid "2af28386-3ad5-40c7-915a-92c5febbf35d")
 		)
-		(pin "5"
-			(uuid "6b0f2628-d7d4-4012-aa00-879881c7abc1")
+		(pin "3"
+			(uuid "2d9e6b45-5b61-4a35-be1a-e1664685b1cd")
 		)
 		(pin "1"
-			(uuid "1a125140-ccd3-49d5-9d0c-8170e1dd3270")
+			(uuid "affa1ad8-4bfa-4aa6-b241-56725e34c914")
 		)
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "LED4")
+					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_RABG")
+		(at 219.71 137.16 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dc7cfccf-2274-401b-ac1a-79437b0701ca")
+		(property "Reference" "D8"
+			(at 219.71 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_RABG"
+			(at 219.71 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "CLVBA-FKA-CAEDH8BBB7A363:CLVBAFKACAEDH8BBB7A363"
+			(at 219.71 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/723/CLVBAFKA-2511032.pdf"
+			(at 219.71 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED, red/anode/blue/green"
+			(at 219.71 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 219.71 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 219.71 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 219.71 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 219.71 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Cree-LED/CLVBA-FKA-CAEDH8BBB7a363?qs=3AcK5DacLboXYkg4biCgSA%3D%3D"
+			(at 219.71 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "414664a5-9ee3-48c9-97f0-a3b770f5782f")
+		)
+		(pin "4"
+			(uuid "45d07b20-69a8-4f2a-abec-2c5feddce82e")
+		)
+		(pin "3"
+			(uuid "5d3cb316-b6f8-4943-97e3-59377cb7010e")
+		)
+		(pin "1"
+			(uuid "290244cc-b43c-4713-b7b9-ee4f2e29559a")
+		)
+		(instances
+			(project "LP5812_dev_board"
+				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -8056,6 +8723,42 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Pulse-Electronics/BBPY00160808121Y00?qs=sGAEpiMZZMt1hubY80%2Fs8KH3ycnB7WcG0IwfThlBOU7VXSNxPew53w%3D%3D"
+			(at 26.67 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 26.67 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 26.67 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 26.67 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 26.67 58.42 0)
 			(effects
 				(font
@@ -8148,7 +8851,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 213.36 46.99 90)
+		(at 212.09 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8156,7 +8859,7 @@
 		(dnp no)
 		(uuid "e6728338-47cd-46f4-b272-9068ad6552ac")
 		(property "Reference" "TP1"
-			(at 209.55 44.958 90)
+			(at 212.09 34.036 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8164,7 +8867,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 210.058 44.45 90)
+			(at 214.63 36.068 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8172,7 +8875,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 213.36 41.91 0)
+			(at 217.17 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8181,7 +8884,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 213.36 41.91 0)
+			(at 217.17 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8190,7 +8893,43 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 213.36 46.99 0)
+			(at 212.09 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 212.09 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 212.09 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 212.09 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 212.09 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8344,138 +9083,6 @@
 		)
 	)
 	(symbol
-		(lib_id "ASMB-TTF0-0A20B:ASMB-TTF0-0A20B")
-		(at 222.25 50.8 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f3505eac-edc8-4ef4-a23b-af503e043087")
-		(property "Reference" "LED1"
-			(at 219.71 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "ASMB-TTF0-0A20B"
-			(at 219.71 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "ASMB-TTF0-0A20B:ASMBTTF00A20B"
-			(at 177.8 -44.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/ASMB-TTF0-0A20B.pdf"
-			(at 177.8 -144.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "BROADCOM LIMITED - ASMB-TTF0-0A20B - LED, RGB, 710/1840/410MCD, PLCC-6"
-			(at 208.788 57.404 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "2"
-			(at 177.8 -344.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "630-ASMB-TTF0-0A20B"
-			(at 177.8 -444.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ASMB-TTF0-0A20B?qs=j%252B1pi9TdxUbzVLPA%2F5LflQ%3D%3D"
-			(at 177.8 -544.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Avago Technologies"
-			(at 177.8 -644.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "ASMB-TTF0-0A20B"
-			(at 177.8 -744.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "45332067-5fd8-493c-8c4f-74b6f009f16e")
-		)
-		(pin "6"
-			(uuid "efb10fd9-a87d-4ae7-982c-cb8bcd94f660")
-		)
-		(pin "2"
-			(uuid "57d63783-e399-440e-9fed-65ea5dcb72f9")
-		)
-		(pin "4"
-			(uuid "ec61c070-233e-44c0-88a6-8ed047a979c3")
-		)
-		(pin "5"
-			(uuid "512d8ddd-d5a5-4685-b31c-b29dd3f39db7")
-		)
-		(pin "1"
-			(uuid "13b89b71-ca3a-40d0-ac43-6b05ec777a47")
-		)
-		(instances
-			(project "LP5812_dev_board"
-				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "LED1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:VCC")
 		(at 156.21 36.83 0)
 		(unit 1)
@@ -8536,6 +9143,225 @@
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:Fiducial")
+		(at 68.58 116.84 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f529a5bb-9dd4-4fc0-8257-27440e7fbbf8")
+		(property "Reference" "FID2"
+			(at 71.12 115.5699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 71.12 118.1099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Fiducial:Fiducial_1mm_Mask3mm"
+			(at 68.58 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 68.58 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fiducial Marker"
+			(at 68.58 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 68.58 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 68.58 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 68.58 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 68.58 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "LP5812_dev_board"
+				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
+					(reference "FID2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_RABG")
+		(at 260.35 137.16 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f7f3f62a-9c89-4b7a-b78e-23a907f55dd9")
+		(property "Reference" "D7"
+			(at 260.35 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_RABG"
+			(at 260.35 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "CLVBA-FKA-CAEDH8BBB7A363:CLVBAFKACAEDH8BBB7A363"
+			(at 260.35 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/723/CLVBAFKA-2511032.pdf"
+			(at 260.35 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED, red/anode/blue/green"
+			(at 260.35 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 260.35 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 260.35 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 260.35 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 260.35 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Cree-LED/CLVBA-FKA-CAEDH8BBB7a363?qs=3AcK5DacLboXYkg4biCgSA%3D%3D"
+			(at 260.35 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "fa2c7802-45a5-41f4-919d-22ef676bf9b1")
+		)
+		(pin "4"
+			(uuid "35c97222-b948-4eaf-8a0a-c1ac196274ee")
+		)
+		(pin "3"
+			(uuid "eee36fa3-080f-42a4-85f8-65bdbd35ba26")
+		)
+		(pin "1"
+			(uuid "05a81cbf-3f1f-4b51-a37c-04d6e9d18c53")
+		)
+		(instances
+			(project "LP5812_dev_board"
+				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
+					(reference "D7")
 					(unit 1)
 				)
 			)
