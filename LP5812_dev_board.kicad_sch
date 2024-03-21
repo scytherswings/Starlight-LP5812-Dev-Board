@@ -8,8 +8,6 @@
 		(title "Starlight - LP5812 Dev Board")
 		(date "2024-03-19")
 		(rev "1.0")
-		(comment 1 "All rights reserved")
-		(comment 2 "Copyright 2024 Andrew Newell")
 	)
 	(lib_symbols
 		(symbol "Connector:TestPoint"
@@ -4649,9 +4647,9 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "24a4815d-eb1b-418d-9032-edda463daf13")
-		(property "Reference" "TP8"
+		(property "Reference" "TP?"
 			(at 252.476 129.54 0)
 			(effects
 				(font
@@ -4736,7 +4734,7 @@
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "TP8")
+					(reference "TP?")
 					(unit 1)
 				)
 			)
@@ -4752,7 +4750,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2a04337c-9b16-420b-8615-b1b198a56a45")
-		(property "Reference" "D4"
+		(property "Reference" "D7"
 			(at 260.35 59.69 0)
 			(effects
 				(font
@@ -4855,7 +4853,7 @@
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "D4")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -5095,7 +5093,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3937ec9c-6ca4-40ef-abb4-eb2bf1b5a24a")
 		(property "Reference" "TP10"
 			(at 20.32 34.798 90)
@@ -5422,9 +5420,9 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "424cf2a4-533a-402f-bb8c-ab4eab0740f4")
-		(property "Reference" "TP4"
+		(property "Reference" "TP?"
 			(at 252.73 98.806 0)
 			(effects
 				(font
@@ -5509,7 +5507,7 @@
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "TP4")
+					(reference "TP?")
 					(unit 1)
 				)
 			)
@@ -5588,7 +5586,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4af70d0c-e628-4196-9a92-12268324c5b7")
 		(property "Reference" "FID3"
@@ -5688,7 +5686,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4c27374d-ac4f-4acb-b786-88e6c4e5daf4")
 		(property "Reference" "FID1"
@@ -5903,9 +5901,9 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "566710f6-f25b-4d9b-98a5-cb02782b9664")
-		(property "Reference" "TP6"
+		(property "Reference" "TP?"
 			(at 212.09 129.032 0)
 			(effects
 				(font
@@ -5990,7 +5988,7 @@
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "TP6")
+					(reference "TP?")
 					(unit 1)
 				)
 			)
@@ -6276,9 +6274,9 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "63211e08-0e51-4767-91bf-1ee86f0ad32f")
-		(property "Reference" "TP7"
+		(property "Reference" "TP?"
 			(at 252.984 64.262 0)
 			(effects
 				(font
@@ -6363,7 +6361,7 @@
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "TP7")
+					(reference "TP?")
 					(unit 1)
 				)
 			)
@@ -6557,7 +6555,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "75d2ca63-ee19-4a2d-adc3-8d304514f9ed")
 		(property "Reference" "TP12"
 			(at 152.4 44.958 90)
@@ -6875,7 +6873,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "84434c8e-6dd9-4d2f-860f-fbedd7b6958b")
-		(property "Reference" "D6"
+		(property "Reference" "D4"
 			(at 260.35 93.98 0)
 			(effects
 				(font
@@ -6978,7 +6976,7 @@
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "D6")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -6991,9 +6989,9 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8dccb94e-6c0e-4d8c-b840-f514e1533f0c")
-		(property "Reference" "TP2"
+		(property "Reference" "TP?"
 			(at 212.09 99.06 0)
 			(effects
 				(font
@@ -7078,7 +7076,7 @@
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "TP2")
+					(reference "TP?")
 					(unit 1)
 				)
 			)
@@ -7091,7 +7089,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "91f115b6-ce52-4215-944f-a401aedf2bee")
 		(property "Reference" "TP11"
 			(at 96.52 46.228 90)
@@ -7191,9 +7189,9 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "96b52a35-2f0f-4489-94f0-498b641e4276")
-		(property "Reference" "TP5"
+		(property "Reference" "TP?"
 			(at 212.09 64.77 0)
 			(effects
 				(font
@@ -7278,7 +7276,7 @@
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "TP5")
+					(reference "TP?")
 					(unit 1)
 				)
 			)
@@ -7294,7 +7292,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "98756651-2583-43bb-a4f8-7f0e0e3c7528")
-		(property "Reference" "D5"
+		(property "Reference" "D2"
 			(at 219.71 93.98 0)
 			(effects
 				(font
@@ -7397,7 +7395,7 @@
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "D5")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -7413,7 +7411,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2632539-a147-436b-b619-9e201a49bb76")
-		(property "Reference" "D3"
+		(property "Reference" "D5"
 			(at 219.71 59.69 0)
 			(effects
 				(font
@@ -7516,7 +7514,7 @@
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "D3")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -8003,7 +8001,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c3706251-e2c6-45f3-8d54-a2641ac1d28d")
-		(property "Reference" "D2"
+		(property "Reference" "D3"
 			(at 260.35 29.21 0)
 			(effects
 				(font
@@ -8106,7 +8104,7 @@
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "D2")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -8222,9 +8220,9 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c7fdbd72-af41-4bf8-be71-5ab0a6f00254")
-		(property "Reference" "TP3"
+		(property "Reference" "TP?"
 			(at 252.476 34.29 0)
 			(effects
 				(font
@@ -8309,7 +8307,7 @@
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "TP3")
+					(reference "TP?")
 					(unit 1)
 				)
 			)
@@ -8559,7 +8557,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc7cfccf-2274-401b-ac1a-79437b0701ca")
-		(property "Reference" "D8"
+		(property "Reference" "D6"
 			(at 219.71 124.46 0)
 			(effects
 				(font
@@ -8662,7 +8660,7 @@
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "D8")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -8856,9 +8854,9 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "e6728338-47cd-46f4-b272-9068ad6552ac")
-		(property "Reference" "TP1"
+		(property "Reference" "TP?"
 			(at 212.09 34.036 0)
 			(effects
 				(font
@@ -8943,7 +8941,7 @@
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "TP1")
+					(reference "TP?")
 					(unit 1)
 				)
 			)
@@ -9155,7 +9153,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f529a5bb-9dd4-4fc0-8257-27440e7fbbf8")
 		(property "Reference" "FID2"
@@ -9258,7 +9256,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7f3f62a-9c89-4b7a-b78e-23a907f55dd9")
-		(property "Reference" "D7"
+		(property "Reference" "D8"
 			(at 260.35 124.46 0)
 			(effects
 				(font
@@ -9361,7 +9359,7 @@
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "D7")
+					(reference "D8")
 					(unit 1)
 				)
 			)
