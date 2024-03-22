@@ -2112,12 +2112,6 @@
 		(uuid "7c5db388-0f81-4ff1-ba82-18dd272b468a")
 	)
 	(junction
-		(at 24.13 36.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7da95134-3f71-42f6-a27e-89c432433d32")
-	)
-	(junction
 		(at 26.67 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3518,6 +3512,17 @@
 		)
 		(uuid "f7616f3a-82ea-4402-a71e-a535a0a1ad00")
 	)
+	(label "VIN"
+		(at 26.67 72.39 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "fe794070-3e65-4306-a7a2-7968913972cf")
+	)
 	(global_label "OUT2_B"
 		(shape bidirectional)
 		(at 266.7 111.76 0)
@@ -4649,7 +4654,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "24a4815d-eb1b-418d-9032-edda463daf13")
-		(property "Reference" "TP?"
+		(property "Reference" "TP8"
 			(at 252.476 129.54 0)
 			(effects
 				(font
@@ -4734,7 +4739,7 @@
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "TP?")
+					(reference "TP8")
 					(unit 1)
 				)
 			)
@@ -5087,106 +5092,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 24.13 36.83 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(uuid "3937ec9c-6ca4-40ef-abb4-eb2bf1b5a24a")
-		(property "Reference" "TP10"
-			(at 20.32 34.798 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "~"
-			(at 20.828 34.29 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 24.13 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 24.13 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 24.13 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" ""
-			(at 24.13 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" ""
-			(at 24.13 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" ""
-			(at 24.13 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 24.13 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ab5626d0-ff47-4a46-abe5-22d90cb8210b")
-		)
-		(instances
-			(project "LP5812_dev_board"
-				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "TP10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 35.56 66.04 90)
 		(unit 1)
@@ -5422,7 +5327,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "424cf2a4-533a-402f-bb8c-ab4eab0740f4")
-		(property "Reference" "TP?"
+		(property "Reference" "TP4"
 			(at 252.73 98.806 0)
 			(effects
 				(font
@@ -5507,7 +5412,7 @@
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "TP?")
+					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -5903,7 +5808,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "566710f6-f25b-4d9b-98a5-cb02782b9664")
-		(property "Reference" "TP?"
+		(property "Reference" "TP6"
 			(at 212.09 129.032 0)
 			(effects
 				(font
@@ -5988,7 +5893,7 @@
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "TP?")
+					(reference "TP6")
 					(unit 1)
 				)
 			)
@@ -6276,7 +6181,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "63211e08-0e51-4767-91bf-1ee86f0ad32f")
-		(property "Reference" "TP?"
+		(property "Reference" "TP7"
 			(at 252.984 64.262 0)
 			(effects
 				(font
@@ -6361,7 +6266,7 @@
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "TP?")
+					(reference "TP7")
 					(unit 1)
 				)
 			)
@@ -6991,7 +6896,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "8dccb94e-6c0e-4d8c-b840-f514e1533f0c")
-		(property "Reference" "TP?"
+		(property "Reference" "TP2"
 			(at 212.09 99.06 0)
 			(effects
 				(font
@@ -7076,7 +6981,7 @@
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "TP?")
+					(reference "TP2")
 					(unit 1)
 				)
 			)
@@ -7191,7 +7096,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "96b52a35-2f0f-4489-94f0-498b641e4276")
-		(property "Reference" "TP?"
+		(property "Reference" "TP5"
 			(at 212.09 64.77 0)
 			(effects
 				(font
@@ -7276,7 +7181,7 @@
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "TP?")
+					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -8222,7 +8127,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "c7fdbd72-af41-4bf8-be71-5ab0a6f00254")
-		(property "Reference" "TP?"
+		(property "Reference" "TP3"
 			(at 252.476 34.29 0)
 			(effects
 				(font
@@ -8307,7 +8212,7 @@
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "TP?")
+					(reference "TP3")
 					(unit 1)
 				)
 			)
@@ -8856,7 +8761,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "e6728338-47cd-46f4-b272-9068ad6552ac")
-		(property "Reference" "TP?"
+		(property "Reference" "TP1"
 			(at 212.09 34.036 0)
 			(effects
 				(font
@@ -8941,7 +8846,7 @@
 		(instances
 			(project "LP5812_dev_board"
 				(path "/a5e340e1-6f5a-42cd-9c9f-a895aae72132"
-					(reference "TP?")
+					(reference "TP1")
 					(unit 1)
 				)
 			)
